@@ -9,6 +9,7 @@ import java.math.BigDecimal;
 import java.time.LocalDate;
 
 @Entity
+//Pojo  or Entity class
 public class Book {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
