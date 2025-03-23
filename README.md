@@ -1,3 +1,4 @@
 # spring-mysql-example
 spring-mysql-example
-Test edit
+
+This project is a sample example of springboot msql 
